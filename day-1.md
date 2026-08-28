@@ -33,6 +33,18 @@ ______________________________________________________________________________
 - [ ] Convert my first blog post into an actual webpage.
       
 ______________________________________________________________________________
+Nikola Tesla's most famous quote is: "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration."
+
+## REVIEW IN BREIF:
+
+- Item 1 : OUTE BY Arthur C. Clarke
+- Item 2 : QOUTE BY NIKOLA TESLA
+
+1. Step 1 TO 
+2.  Step 2 WISE
+
+- [x] This task is complete
+- [ ] This task is not complete
 
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
