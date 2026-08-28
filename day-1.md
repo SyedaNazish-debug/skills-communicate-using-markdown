@@ -4,3 +4,10 @@ A famous quote about technology is, "Any sufficiently advanced technology is ind
 ## LINES TO REMEMBER ABOUT THE TECH.
 
 Nikola Tesla's most famous quote is: "If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." 
+
+## REVIEW 
+
+THE FINAL CONCLUSION TO IT IS THE ABILITY TO MASTER THE POSSIBILITIES AND RELIVE IT  ALL MAGICALLY OR LOGICALLY.
+
+
+
