@@ -1,4 +1,7 @@
 # DAILY REMEMBERANCE .
+
+<img alt ="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="75" align="right">
+
 A famous quote about technology is, "Any sufficiently advanced technology is indistinguishable from magic," by science fiction author Arthur C. Clarke. 
 
 ## LINES TO REMEMBER ABOUT THE TECH.
@@ -36,3 +39,14 @@ Convert an image or video from dark mode to light mode using [ffmpeg](https://ww
 ```bash
 ffmpeg -i input.mp4 -vf "negate,hue=h=180,eq=contrast=1.2:saturation=1.1" output.mp4
 ```
+____________________________________________________________________________________________________________________________________________________________
+
+Hey SyedaNazish-debug!
+
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
+
+Remember, it's self-paced so feel free to take a break! ☕️
+
+<img alt ="[Mona the Octocat" 
+ src ="https://octodex.github.com/images/original.png" width="150" align="right">
+
